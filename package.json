@@ -1,0 +1,26 @@
+{
+	"name": "portfolio",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint"
+	},
+	"dependencies": {
+		"@emotion/cache": "latest",
+		"@emotion/react": "latest",
+		"@emotion/server": "latest",
+		"@emotion/styled": "latest",
+		"@mui/material": "latest",
+		"clsx": "latest",
+		"next": "latest",
+		"react": "latest",
+		"react-dom": "latest"
+	},
+	"devDependencies": {
+		"eslint": "7",
+		"eslint-config-next": "12.0.4",
+		"typescript": "^4.5.2"
+	}
+}
